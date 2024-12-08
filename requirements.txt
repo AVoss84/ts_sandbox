@@ -1,2 +1,5 @@
 ipykernel
 autogluon.timeseries
+yfinance
+tabulate
+seaborn
